@@ -1,6 +1,6 @@
 # 🌌 Astrolink: AI-Powered Orbital Physics Simulator
 
-**Astrolink** is a real-time 3D space exploration tool that combines high-fidelity physics with a witty AI Flight Director. Built in 4 hours for the [Hackathon Name] challenge.
+**Astrolink** is a real-time 3D space exploration tool that combines high-fidelity physics with a witty AI Flight Director.
 
 ## 🚀 The Team
 - **Member 1 (Lead Architect):** System Integration & Streamlit UI
